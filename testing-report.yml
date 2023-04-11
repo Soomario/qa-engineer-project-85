@@ -32,7 +32,7 @@
   
 - summary: |
     Проверка выбора языка игры и отображения задачи на выбранном языке
-  status: pass
+  status: fail
   
 - summary: |
     Проверка кнопок "Reset editor" и "Check solution" во время игры
